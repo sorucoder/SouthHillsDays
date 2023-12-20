@@ -1,0 +1,16 @@
+{
+  "name": "southhillsdays",
+  "version": "1.0.0",
+  "description": "A package to get the days between my enrollment and graduation of South Hills.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcus E. W. Germano, IV",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "luxon": "^3.4.4"
+  }
+}
