@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin git@github.com:sorucoder/SouthHillsDays.git
+git branch -M master
+git push -u origin master
